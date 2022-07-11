@@ -1,6 +1,6 @@
 public class Test
 {
-    public void show(string message)
+    public void Show(string message)
     {
         System.Diagnostics.Debug.WriteLine($"MESSAGE: {message}");
     }
